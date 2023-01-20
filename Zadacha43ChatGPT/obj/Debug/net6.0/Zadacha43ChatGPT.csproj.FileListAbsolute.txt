@@ -1,0 +1,15 @@
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\bin\Debug\net6.0\Zadacha43ChatGPT.exe
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\bin\Debug\net6.0\Zadacha43ChatGPT.deps.json
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\bin\Debug\net6.0\Zadacha43ChatGPT.runtimeconfig.json
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\bin\Debug\net6.0\Zadacha43ChatGPT.dll
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\bin\Debug\net6.0\Zadacha43ChatGPT.pdb
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\obj\Debug\net6.0\Zadacha43ChatGPT.csproj.AssemblyReference.cache
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\obj\Debug\net6.0\Zadacha43ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\obj\Debug\net6.0\Zadacha43ChatGPT.AssemblyInfoInputs.cache
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\obj\Debug\net6.0\Zadacha43ChatGPT.AssemblyInfo.cs
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\obj\Debug\net6.0\Zadacha43ChatGPT.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\obj\Debug\net6.0\Zadacha43ChatGPT.dll
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\obj\Debug\net6.0\refint\Zadacha43ChatGPT.dll
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\obj\Debug\net6.0\Zadacha43ChatGPT.pdb
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\obj\Debug\net6.0\Zadacha43ChatGPT.genruntimeconfig.cache
+D:\GeekBrains\Git_lokal_files\Seminar6domashka\Zadacha43ChatGPT\obj\Debug\net6.0\ref\Zadacha43ChatGPT.dll

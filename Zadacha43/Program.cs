@@ -11,7 +11,7 @@ double b2 = double.Parse(Console.ReadLine());
 
 void CoordinatePointLine(double k1, double k2, double b1, double b2)
 {
-    Console.Write("Уравнение пересечения прямых:\ny = k1 * x + b1\ny = k2 * x + b1\n\n");
+    Console.Write("Уравнение пересечения прямых:\nx= k1 * x + b1\ny = k2 * x + b1\n\n");
     if (k1 != k2)
     {
         double x = (b1 - b2) / (k2 - k1);
@@ -31,4 +31,3 @@ void CoordinatePointLine(double k1, double k2, double b1, double b2)
     
 }
 CoordinatePointLine(k1,k2,b1,b2);
-
